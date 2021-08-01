@@ -1,5 +1,5 @@
 <x-slot name="header">
-    <h1 class="text-gray-900">Biblioteca Portillo</h1>
+    <h1 class="text-gray-900 font-bold">Biblioteca Portillo</h1>
 </x-slot>
 
 <div class="py-12">
